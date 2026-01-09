@@ -1,4 +1,5 @@
 {
-  "latestVersion": "1.1",
-  "downloadLink": "https://drive.google.com/uc?export=download&id=1QRHyrpltVU1qf5RJjiM0CQqh0q1flwsu"
+  "version": "2.5.0",
+  "downloadUrl": "https://github.com/harshedits571/my-ae-updates/releases/latest",
+  "releaseNotes": "Added hierarchical tree and fixed anchor points."
 }
