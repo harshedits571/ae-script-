@@ -1,5 +1,5 @@
 {
-  "version": "2.7.3",
+  "version": "2.7.2",
   "downloadUrl": "https://softwherehub.netlify.app/",
   "releaseNotes": "Added hierarchical tree and fixed anchor points."
 }
