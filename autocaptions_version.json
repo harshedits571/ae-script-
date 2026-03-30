@@ -2,5 +2,5 @@
   "version": "v1.4.0",
   "downloadUrl": "https://github.com/harshedits571/ae-script-/releases/latest/download/Autocaptionpro by Harsh edits v1.3.rar",
   "changelog": "🚀 AUTO CAPTIONS PRO v1.4.0 - THE BATCH REVOLUTION\n\nNEW FEATURES:\n• Seamless Batch Merge Mode: Generate captions for 5, 10, or 50 audio clips at once! The extension now automatically merges all transcribed data into one single, master \"Edit Captions\" tab for your entire timeline.\n• Performance Assassin (Kill Switch): The \"Stop\" and \"Cancel\" buttons are now 100% asynchronous. No more AE \"Not Responding\" screens and zero black CMD window popups!\n• Live Cloud Versioning: See your active extension status directly in the Command Center.\n\nSTABILITY FIXES:\n• Fixed \"Add Custom\" preset glitch where FFX files wouldn't save on certain Windows builds.\n• Improved Silence Remover precision to eliminate gaps between Whisper AI blocks.\n• Optimized transcription engine to prevent memory leaks during ultra-long batch renders.\n\nHappy Captions! ⚡\n",
-  "timestamp": 1774887335439
+  "timestamp": 1774887389428
 }
